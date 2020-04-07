@@ -1,3 +1,8 @@
+Bats: Bash Automated Testing System
+
+https://github.com/sstephenson/bats
+
+
 > As a fizzbuzz user  
 > I want a standalone shell script that will identify multiples of 3 and 5  
 > So that I can output alternative data to my users
